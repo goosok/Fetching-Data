@@ -1,0 +1,14 @@
+{
+  "name": "fetch-charts",
+  "version": "1.0.0",
+  "description": "Playing around with JS Fetch data and Charts.js Library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Gustavo Silber",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
